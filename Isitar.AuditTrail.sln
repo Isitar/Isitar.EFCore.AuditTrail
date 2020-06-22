@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isitar.AuditTrail.Lib", "Isitar.AuditTrail.Lib\Isitar.AuditTrail.Lib.csproj", "{EF7EE380-4EAF-4190-B772-0174E5500D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isitar.AuditTrail.CLI", "Isitar.AuditTrail.CLI\Isitar.AuditTrail.CLI.csproj", "{1889E29D-6A4A-461B-987C-3C23D256139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7EE380-4EAF-4190-B772-0174E5500D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7EE380-4EAF-4190-B772-0174E5500D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7EE380-4EAF-4190-B772-0174E5500D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7EE380-4EAF-4190-B772-0174E5500D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1889E29D-6A4A-461B-987C-3C23D256139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1889E29D-6A4A-461B-987C-3C23D256139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1889E29D-6A4A-461B-987C-3C23D256139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1889E29D-6A4A-461B-987C-3C23D256139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
